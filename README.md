@@ -32,15 +32,15 @@ The number of hosts for each branch can be doubled. Hence extra room for extra I
 
 ### Assumptions:
 
-o Network Address considered 192.168.0.0/19
-o All routers secured with password
-o Sylhet connected to main branch Dhaka
-o Static routing for Chittagong - Rangpur, Chittagong - Khulna for more secure
-o Floating static routing for Rajshahi – Khulna
-o Administrative distance for floating route considered 10
-o RIP routing for remaining
-o 100 IPs excluded for DHCP
-o Dhaka as a way point between Chittagong and Rajshahi without human intervention
+- Network Address considered 192.168.0.0/19
+- All routers secured with password
+- Sylhet connected to main branch Dhaka
+- Static routing for Chittagong - Rangpur, Chittagong - Khulna for more secure
+- Floating static routing for Rajshahi – Khulna
+- Administrative distance for floating route considered 10
+- RIP routing for remaining
+- 100 IPs excluded for DHCP
+- Dhaka as a way point between Chittagong and Rajshahi without human intervention
 
 ### License
 
